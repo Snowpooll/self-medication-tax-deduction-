@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# セキュリティのための追記
+receipts.db
+skipped.csv
+csv_files/*.csv
+.DS_Store
