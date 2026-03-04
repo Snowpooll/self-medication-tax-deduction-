@@ -21,7 +21,7 @@
 ### 2. データのインポート
 Macのターミナルで以下のコマンドを実行し、SQLiteデータベースへ取り込みます。
 ```bash
-python import_receipts_with_dedup_and_log.py
+python import_receipts_with_dedup_and_log.py```
 
 3. 集計（確定申告用：店舗別合計）
 店舗ごとのセルフメディ対象金額の合計を表示します。
